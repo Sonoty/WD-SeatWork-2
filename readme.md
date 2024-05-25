@@ -9,7 +9,7 @@
     <img src="./assets/img/DOTA 2 - Venge Rogue.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-Seatwork-2</h3>
+  <h3 align="center">WD-SeatWork-2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
